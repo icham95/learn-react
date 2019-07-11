@@ -5,3 +5,8 @@
 3. buat file baru dan harus sama namanya dengan component, disini berarti commentDetail (camel notation)
 4. buat component di file tersebut. atau paste yang mungkin atau bakal duplicate atau bisa di reusable.
 5. buat component yang bisa di configurasi memakai props system.
+
+### Props
+
+adalah sistem untuk mengirim data dari parent komponent ke child komponen.
+tujuan atau goalnya adalah untuk komponen bisa configurable atau customize.
